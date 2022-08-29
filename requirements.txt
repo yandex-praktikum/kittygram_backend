@@ -1,0 +1,5 @@
+Django==3.2.3
+djangorestframework==3.12.4
+djoser==2.1.0
+webcolors==1.11.1
+Pillow==9.0.0
