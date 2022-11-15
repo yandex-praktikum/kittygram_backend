@@ -3,7 +3,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/boreesych/kittygram_backend.git
+git clone https://github.com/yandex-praktikum/kittygram_backend.git
 ```
 
 ```
@@ -16,9 +16,17 @@ Cоздать и активировать виртуальное окружен�
 python3 -m venv env
 ```
 
-```
-source env/bin/activate
-```
+* Если у вас Linux/macOS
+
+    ```
+    source env/bin/activate
+    ```
+
+* Если у вас windows
+
+    ```
+    source env/scripts/activate
+    ```
 
 ```
 python3 -m pip install --upgrade pip
