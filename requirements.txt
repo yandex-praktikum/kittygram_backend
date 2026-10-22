@@ -1,5 +1,5 @@
-Django==5.1.1
-djangorestframework==3.15.2
-djoser==2.3.1
+Django==5.2.12
+djangorestframework==3.17.1
+djoser==2.3.3
 webcolors==1.11.1
-pillow==11.0.0
+pillow==12.0.0
